@@ -116,17 +116,23 @@ Check Apache at: http://<Public-IP-of-Web-Linux-VM>
 
 
 ## LIVE DEMO : 
+## Virtual Network 
+![Homepage Screenshot](assets/Screenshot%202025-07-04%20141403.png)
+## Subnets
+![Homepage Screenshot](assets/Screenshot%202025-07-04%20141438.png)
+## web-nsg-rules
+![Homepage Screenshot](assets/Screenshot%202025-07-04%20141504.png)
+## app-nsg-rules
+![Homepage Screenshot](assets/Screenshot%202025-07-04%20141539.png)
+## db-nsg-rules
+![Homepage Screenshot](assets/Screenshot%202025-07-04%20141519.png)
+## vm-creation-linux
+![Homepage Screenshot](assets/Screenshot%202025-07-04%20141611.png)
+![Homepage Screenshot](assets/Screenshot%202025-07-04%20141632.png)
+## vm-creation-windows
+![Homepage Screenshot](assets/Screenshot%202025-07-04%20141641.png)
+## result
+![Homepage Screenshot](assets/Screenshot%202025-07-04%20131335.png)
+![Homepage Screenshot](assets/Screenshot%202025-07-04%20132916.png)
+![Homepage Screenshot](aassets/Screenshot%202025-07-04%20133006.png)
 
-![Homepage Screenshot](assets/Screenshot%202025-06-22%20231345.png)
-![Homepage Screenshot](assets/Screenshot%202025-06-22%20221016.png)
-![Homepage Screenshot](assets/Screenshot%202025-06-22%20221112.png)
-![Homepage Screenshot](assets/Screenshot%202025-06-22%20221125.png)
-![Homepage Screenshot](assets/Screenshot%202025-06-22%20221136.png)
-![Homepage Screenshot](assets/Screenshot%202025-06-22%20221212.png)
-![Homepage Screenshot](assets/Screenshot%202025-06-22%20221345.png)
-![Homepage Screenshot](assets/Screenshot%202025-06-22%20221416.png)
-![Homepage Screenshot](assets/Screenshot%202025-06-22%20221445.png)
-![Homepage Screenshot](assets/Screenshot%202025-06-22%20221510.png)
-![Homepage Screenshot](assets/Screenshot%202025-06-22%20221538.png)
-![Homepage Screenshot](assets/Screenshot%202025-06-22%20221650.png)
-![Homepage Screenshot](assets/Screenshot%202025-06-22%20221703.png)
