@@ -134,5 +134,5 @@ Check Apache at: http://<Public-IP-of-Web-Linux-VM>
 ## result
 ![Homepage Screenshot](assets/Screenshot%202025-07-04%20131335.png)
 ![Homepage Screenshot](assets/Screenshot%202025-07-04%20132916.png)
-![Homepage Screenshot](aassets/Screenshot%202025-07-04%20133006.png)
+![Homepage Screenshot](assets/Screenshot%202025-07-04%20133006.png)
 
